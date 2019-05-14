@@ -8,14 +8,11 @@
 
 Hi! Welcome to this repo. Here you will find my final project for the Data Visualization class at the MSDS Program at USF. I scraped all the messages sent over our Slack and gathered some insights about the emoji reactions the craziest cohort of all use (us, cohort 7!).
 
-- Notebook with for the visualizations in this project:
-https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/HW/Final%20Project.ipynb
+- [Notebook with for the visualizations in this project](https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/HW/Final%20Project.ipynb)
 
-- Analysis:
-https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/HW/Analysis.pdf
+- [Analysis](https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/HW/Analysis.pdf)
 
-- Interactive dashboard:
-https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/dashboard.py
+- [Interactive dashboard](https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/dashboard.py)
 <img src="https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/output1.png?raw=true">
 
 <br>
