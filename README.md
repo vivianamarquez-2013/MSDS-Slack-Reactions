@@ -15,8 +15,8 @@ https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blo
 https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/HW/Analysis.pdf
 
 - Interactive dashboard:
-<img src="https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/output1.png?raw=true">
 https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/dashboard.py
+<img src="https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/output1.png?raw=true">
 
 <br>
 <br>
