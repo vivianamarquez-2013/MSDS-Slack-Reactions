@@ -18,6 +18,8 @@ https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blo
 <img src="https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/output1.png?raw=true">
 https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/dashboard.py
 
+<br>
+<br>
 Sincerely, and truly yours,
 
 👀 [*#AlwaysWatching*](vivianamarquez.com)
