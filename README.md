@@ -21,4 +21,4 @@ https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blo
 
 Sincerely, and truly yours,
 
-👀 #AlwaysWatching
+👀 *#AlwaysWatching*
