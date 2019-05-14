@@ -11,16 +11,13 @@ Hi! Welcome to this repo. Here you will find my final project for the Data Visua
 - Notebook with for the visualizations in this project:
 https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/HW/Final%20Project.ipynb
 
+- Analysis:
+https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/HW/Analysis.pdf
+
 - Interactive dashboard:
 <img src="https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/output1.png?raw=true">
 https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboard/dashboard.py
 
-- Analysis:
-https://nbviewer.jupyter.org/github/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/HW/Analysis.pdf
-
-
-
-
 Sincerely, and truly yours,
 
-👀 *#AlwaysWatching*
+👀 [*#AlwaysWatching*](vivianamarquez.com)
