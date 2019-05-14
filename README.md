@@ -22,4 +22,4 @@ https://github.com/vivianamarquez-2013/MSDS-Slack-Reactions/blob/master/Dashboar
 <br>
 Sincerely, and truly yours,
 
-👀 [*#AlwaysWatching*](vivianamarquez.com)
+👀 [*#AlwaysWatching*](http://vivianamarquez.com/)
